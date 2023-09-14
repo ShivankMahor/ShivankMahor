@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShivnakMahor
+- 👋 Hi, I’m @ShivankMahor
 - 👀 I'm a passionate tech enthusiast with a focus on web development and a budding interest in programming. Here's a snapshot of my skills and experiences:
 - Skills 
 - 1. REACT
