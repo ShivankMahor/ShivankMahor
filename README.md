@@ -7,7 +7,7 @@
   4. C++
  
 ## Projects
-- **To-Do App (React)**: Created a simple yet functional to-do application using React. [Check it out!](#)
+- **To-Do App (React)**: Created a simple yet functional to-do application using React. [Check it out!](https://shivankmahor.github.io/todo-app/)
 
 - 🌱 I’m currently learning Redux/Redux Toolkit, DSA  in C++, 
 - 💞️ I’m looking to collaborate and gain experience 
