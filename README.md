@@ -5,6 +5,7 @@
   2. NODE JS
   3. EXPRESS
   4. C++
+  5. Tailwind CSS
  
 ## Projects
 - **To-Do App (React)**: Created a simple yet functional to-do application using React. [Check it out!](https://shivankmahor.github.io/todo-app/)
